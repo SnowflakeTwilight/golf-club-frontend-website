@@ -54,8 +54,8 @@ Edit
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sidcup-family-golf.git
-   cd sidcup-family-golf
+   git clone https://github.com/your-username/golf-club-frontend-website.git
+   cd golf-club-frontend-website
 Open index.html in your browser to view the site.
 
 No build tools or bundlers required — it's fully static!
