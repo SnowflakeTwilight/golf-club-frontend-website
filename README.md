@@ -18,13 +18,13 @@ A visually engaging, scroll-animated landing page for **Sidcup Family Golf**, bu
 
 ## 📂 Project Structure
 
-sidcup-family-golf/
-├── index.html # Main HTML structure
-├── style.css # All styling and animations
-├── script.js # GSAP animations and logic
-├── assets/
-│ ├── images/ # All used images (cards, logos, etc.)
-│ └── video/ # Background golf video
+```
+📁 sidcup-family-golf/
+├── index.html          # Main HTML structure
+├── new.css           # All styling and animations
+├── scrpit.js           # GSAP animations and logic
+```
+
 
 yaml
 Copy
